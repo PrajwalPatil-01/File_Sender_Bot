@@ -33,13 +33,13 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-AutoCaption-Bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/PrajwalPatil-01/File_Sender_Bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -47,7 +47,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot">
+<a href="">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 </details>
@@ -55,11 +55,11 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Koyeb
 <details><summary>Deploy To Koyeb</summary>
 <br>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href=""><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 </details>
 
 ### Demo Bot:
-<a href="https://telegram.me/VJ_Botz"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href=""><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
